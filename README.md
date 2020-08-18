@@ -6,7 +6,9 @@
 git clone https://github.com/rezabojnordi/vimrc.git
 
 #### step2
+cd vimrc
 
+#### step3
 cp -r  * ~/.vim/
 
 
