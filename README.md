@@ -10,16 +10,16 @@ git clone https://github.com/rezabojnordi/vimrc.git
 cp -r  * ~/.vim/
 
 
-<img src="pic/1.png" height="400" width="400" style="float:center" ></img>
+<img src="pic/1.png" height="700" width="600" style="float:center" ></img>
 
-<img src="pic/2.png" height="400" width="400" style="float:center" ></img>
+<img src="pic/2.png" height="700" width="600" style="float:center" ></img>
 
-<img src="pic/3.png" height="400" width="400" style="float:center" ></img>
-
-
-<img src="pic/4.png" height="400" width="400" style="float:center" ></img>
+<img src="pic/3.png" height="700" width="600" style="float:center" ></img>
 
 
-<img src="pic/5.png" height="400" width="400" style="float:center" ></img>
+<img src="pic/4.png" height="700" width="600" style="float:center" ></img>
 
-<img src="pic/6.png" height="400" width="400" style="float:center" ></img>
+
+<img src="pic/5.png" height="700" width="600" style="float:center" ></img>
+
+<img src="pic/6.png" height="700" width="600" style="float:center" ></img>
